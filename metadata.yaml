@@ -1,0 +1,34 @@
+_repo: Moriah-s-Mourning-and-Other-Half-Hour-Sketches_20438
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stuart, Ruth McEnery
+    birthdate: 1856
+    deathdate: 1917
+    gutenberg_agent_id: '3831'
+    url: http://www.gutenberg.org/2009/agents/3831
+description: ''
+gutenberg_issued: '2007-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20438'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Louisiana -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Plantation life -- Fiction'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+tableOfContents: Moriah's mourning -- An optical dilemma -- The second Mrs. Slimm
+  -- Apollo Belvedere. A Christmas episode of the plantation -- Nearest of kin (On
+  the plantation) -- The deacon's medicine -- Two gentlemen of leisure -- The Rev.
+  Jordan White's three glances -- Lady. A monologue of the cow-pen -- A pulpit orator
+  -- An Easter symbol. A monologue of the plantation -- Christmas at the Trimbles'
+  -- A minor chord.
+title: Moriah's Mourning and Other Half-Hour Sketches
+url: http://www.gutenberg.org/ebooks/20438
